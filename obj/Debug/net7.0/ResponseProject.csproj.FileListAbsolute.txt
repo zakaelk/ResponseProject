@@ -1,0 +1,15 @@
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.csproj.AssemblyReference.cache
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.AssemblyInfoInputs.cache
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.AssemblyInfo.cs
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.csproj.CoreCompileInputs.cache
+C:\Users\JUSY\Desktop\VSC\ResponseProject\bin\Debug\net7.0\ResponseProject.exe
+C:\Users\JUSY\Desktop\VSC\ResponseProject\bin\Debug\net7.0\ResponseProject.deps.json
+C:\Users\JUSY\Desktop\VSC\ResponseProject\bin\Debug\net7.0\ResponseProject.runtimeconfig.json
+C:\Users\JUSY\Desktop\VSC\ResponseProject\bin\Debug\net7.0\ResponseProject.dll
+C:\Users\JUSY\Desktop\VSC\ResponseProject\bin\Debug\net7.0\ResponseProject.pdb
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.dll
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\refint\ResponseProject.dll
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.pdb
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ResponseProject.genruntimeconfig.cache
+C:\Users\JUSY\Desktop\VSC\ResponseProject\obj\Debug\net7.0\ref\ResponseProject.dll
